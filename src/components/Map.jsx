@@ -14,7 +14,6 @@ L.Icon.Default.mergeOptions({
 function Map(props) {
 
     const { data } = props
-
     return (
         <>
             {JSON.stringify(data) !== "{}" && !Object.keys(data).includes("error") &&

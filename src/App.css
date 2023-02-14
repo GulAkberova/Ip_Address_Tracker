@@ -76,3 +76,8 @@
 .info_div div p{
   color: gray;
 }
+
+.leaflet-container {
+  height: 90vh;
+  width: 100%;
+}
