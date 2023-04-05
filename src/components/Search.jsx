@@ -46,7 +46,7 @@ function Search(props) {
             value={value}
             onChange={(e) => setValue(e.target.value)}
             type="text"
-            placeholder="Search for any IP address or domain"
+            placeholder="Search for any IP address or domain 92.88.99.29"
           />
           <button>
             <i className="fa-solid fa-angle-right"></i>
